@@ -1,8 +1,9 @@
 Hey there,Krish Sharma
+
 Aspiring Data Analyst | SQL • Python • Power BI • Excel | Turning Data Into Insights
 👋 About Me
 
-I'm Krishna, a data enthusiast passionate about breaking down raw data into meaningful stories.
+I'm Krish, a data enthusiast passionate about breaking down raw data into meaningful stories.
 I specialize in Power BI dashboards, SQL analysis, and Python for data handling.
 
 I’m building my journey toward becoming a Data Analyst → Data Scientist.
