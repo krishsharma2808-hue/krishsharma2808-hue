@@ -45,6 +45,6 @@ Learning Python for deeper analytics
 
 📫 Connect With Me
 
-LinkedIn: (You will add your link later)
+LinkedIn: https://www.linkedin.com/in/krish-sharma-5544b4383/
 
 GitHub: https://github.com/krishsharma2808-hue
